@@ -7,7 +7,7 @@
   1. Add notify to your list of dependencies in `mix.exs`:
 
         def deps do
-          [{:notify, git: "https://github.com/chashu-code/job-scheduler.git"}]
+          [{:notify, git: "https://github.com/chashu-code/notify-elixir.git"}]
         end
 
   2. Ensure notify is started before your application:
