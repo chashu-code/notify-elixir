@@ -1,0 +1,10 @@
+%{"certifi": {:hex, :certifi, "0.3.0"},
+  "exlager": {:git, "https://github.com/khia/exlager.git", "abb13435a540731b8b9c5f649f4d94f11a27c1f7", []},
+  "goldrush": {:git, "git://github.com/DeadZen/goldrush.git", "64864ba7fcf40988361340e48680b49a2c2938cf", [tag: "0.1.7"]},
+  "hackney": {:hex, :hackney, "1.4.7"},
+  "httpoison": {:git, "https://github.com/edgurgel/httpoison.git", "536e3dd6461f859c0790c78e3a01f8fd8d913857", []},
+  "idna": {:hex, :idna, "1.0.2"},
+  "lager": {:git, "https://github.com/basho/lager.git", "310ed140ab86b95dd9f1f1ed3bf2ca93f841349d", []},
+  "mimerl": {:hex, :mimerl, "1.0.2"},
+  "poison": {:hex, :poison, "1.5.0"},
+  "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.5"}}
